@@ -8,5 +8,5 @@ Dependencies:
 A version of Conways Game of Life with customizable rulesets.
 Written in Python3 and C.
 
-$ make
+$ make  
 $ python3 life.py
