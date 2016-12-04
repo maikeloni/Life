@@ -8,6 +8,8 @@ Dependencies:
 * Python3
 * tkinter
 
-
+Install: 
 $ make  
+
+Start: 
 $ python3 life.py
