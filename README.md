@@ -9,7 +9,7 @@ Written in Python3 and C.
 * tkinter
 
 ## Install
-$ make  
+```$ make```
 
 ## Start
-$ python3 life.py
+```$ python3 life.py```
